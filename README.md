@@ -39,14 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🔒 [**SafetyWatch – Crime Reporting Platform**](https://github.com/Dcosta-Arvin-Arun/) — Secure anonymous crime reporting platform with admin dashboards & analytics.  
-- 🛍️ [**E-commerce Website**](https://github.com/Dcosta-Arvin-Arun/) — Full-stack online store with payment integration & dynamic inventory management.  
-- 📊 [**Admin Dashboard**](https://github.com/Dcosta-Arvin-Arun/) — Interactive dashboard with data visualization & role-based access.  
-
----
-
 ## 💡 Focus Areas
 
 - Full-Stack Development 🌐  
