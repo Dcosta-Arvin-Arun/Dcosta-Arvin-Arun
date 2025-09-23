@@ -12,7 +12,7 @@
 
 | Most Used Languages | Skills & Tools | Competitive Coding |
 |:-----------------:|:--------------:|:----------------:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dcosta-Arvin-Arun&layout=compact&theme=radical&hide_border=true" height="200"> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs,py,java" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,prisma,aws,firebase" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi" height="35"> | <img src="https://leetcard.jacoblin.cool/dcosta_arvin?theme=radical&ext=heatmap&border=0" height="200"> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dcosta-Arvin-Arun&layout=compact&theme=radical&hide_border=true" height="200"> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs,py,java" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,prisma,aws,firebase" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" height="35"> | <img src="https://leetcard.jacoblin.cool/dcosta_arvin?theme=radical&ext=heatmap&border=0" height="200"> |
 
 </div>
 
